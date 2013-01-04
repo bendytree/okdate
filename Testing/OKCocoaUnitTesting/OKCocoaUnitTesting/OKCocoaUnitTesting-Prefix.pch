@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'OKCocoaUnitTesting' target in the 'OKCocoaUnitTesting' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
